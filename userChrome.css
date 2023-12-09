@@ -11,6 +11,7 @@
 }
 
 #nav-bar {
+    /* customize this value. */
     --navbar-margin: -44px;
   
     margin-top: var(--navbar-margin);
@@ -21,7 +22,8 @@
     background-color: rgba(0,0,0,0.8) !important;
   }
   
-  #navigator-toolbox:focus-within > #nav-bar
+  #navigator-toolbox:focus-within > #nav-bar,
+  #navigator-toolbox:hover > #nav-bar
   {
     margin-top: 0;
     margin-bottom: var(--navbar-margin);
