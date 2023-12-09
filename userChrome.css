@@ -10,17 +10,24 @@
   display: none !important;
 }
 
-#navigator-toolbox {
-  --is-bar-visible: hidden;
-  opacity: 0 !important;
-  height: 1px;
-}
-
-#navigator-toolbox:focus-within {
-  height: 40px;
-  opacity: 1 !important;
-  --is-bar-visible: visible;
-}
+#nav-bar {
+    --navbar-margin: -44px;
+  
+    margin-top: var(--navbar-margin);
+    margin-bottom: 0;
+    z-index: -100;
+    transition: all 0.3s ease !important;
+    opacity: 0;
+    background-color: rgba(0,0,0,0.8) !important;
+  }
+  
+  #navigator-toolbox:focus-within > #nav-bar
+  {
+    margin-top: 0;
+    margin-bottom: var(--navbar-margin);
+    z-index: 100;
+    opacity: 1;
+  }
 
 :root {
     --delay: 0.5s;
