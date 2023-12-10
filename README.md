@@ -8,3 +8,10 @@ NOTE: Both `userChrome.css` and `tabCenterReborn.css` should be minified before 
 
 ## Alacritty 
 Gruvbox themed
+
+## Neovim
+1. Install Packer:
+```
+git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
+```
+2. Run `PackerSync` 
