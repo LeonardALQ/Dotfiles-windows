@@ -1,3 +1,6 @@
+# Leonard's Window Setup 
+![image](https://github.com/LeonardALQ/Firefox-CSS/assets/77181877/d0439ed6-9235-45b1-844f-35505d0aed90)
+
 ## Firefox-CSS
 Very minimalistic setup. 
 
