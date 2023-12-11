@@ -1,5 +1,5 @@
 # Leonard's Window Setup 
-![image]([https://github.com/LeonardALQ/Dotfiles-windows/windows.png](https://github.com/LeonardALQ/Dotfiles-windows/blob/main/windows.png)
+![image](https://github.com/LeonardALQ/Dotfiles-windows/blob/main/windows.png)
 
 ## Firefox-CSS
 Very minimalistic setup. 
