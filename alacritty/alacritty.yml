@@ -38,5 +38,19 @@ colors:
     magenta: '0xd3869b'
     cyan:    '0x89b482'
     white:   '0xd4be98'
+font:
+  normal:
+    family: JetBrains Mono
+    style: Medium
+  bold:
+    family: JetBrains Mono
+    style: Bold
+  italic:
+    family: JetBrains Mono
+    style: MediumItalic
+  bold_italic:
+    family:  JetBrains Mono
+    style: BoldItalic
+
 # shell:
   # program: "C:\\Windows\\System32\\wsl.exe ~"
