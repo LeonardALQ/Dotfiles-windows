@@ -1,0 +1,19 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./photos",
+  "legacyEditor": false,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "useTab": false,
+  "showInlineTitle": false
+}
