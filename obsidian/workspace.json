@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "d3b5c476b426861e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da9f8cac0537aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e8e065add23940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023/27-12-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1720018e57cdf72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Daily Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9270f330477db7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023/21-12-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2877fa35ebaf3d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2d5c8e8dfbaf22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269dd81096e0386e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36dec3131a3ae9ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4bb14a76e0cb3d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dd3bddd54fea500d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84423f689064fce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df59a0ab6d70d91b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcbd553b970bbe7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2023/27-12-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91d5e11cb7c5110e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2023/27-12-2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f3aaf87c6e8822c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f97ba0416ccb23af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2023/27-12-2023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "f2e8e065add23940",
+  "lastOpenFiles": [
+    "Diary/Daily Template.md",
+    "Diary/2023/27-12-2023.md",
+    "Diary/2023/Untitled.md",
+    "Diary/2023/Untitled 1.md",
+    "Diary/2023/Untitled 2.md",
+    "Papers/Psychology/Verbal Fluency.md",
+    "Diary/2023/25-12-2023.md",
+    "Papers/Psychology/The Signs and Significance of Personality  Coherence in Personal Stories and  Strivings.md",
+    "Papers/Psychology Papers/Fournier, Dong, Quitasol, Weststrate, & Di Domenico, 2018 (The Signs and Significance of Personality Coherence in Personal Stories and Strivings).pdf",
+    "Papers/photos/Pasted image 20231126212221.png",
+    "Papers/Luck Razor.md",
+    "Papers/Paper DB.md",
+    "Papers/Betteridge's Law.md",
+    "Cultural/France.md",
+    "Diary/2023/24-12-2023.md",
+    "Diary/Weekly Reflections/05-08-2023 TO 12-08-2023.md",
+    "Diary/Goal Points.md",
+    "Vocabulary.md",
+    "Windows Configuration.md",
+    "Stories.md",
+    "Diary/Score System.md",
+    "Reflective Psychology.md",
+    "Prudishness & Licentiousness.md",
+    "Pasted image 20231213085547.png",
+    "Pasted image 20231213090145.png",
+    "Interview Preperation.md",
+    "Funny Random Thoughts.md",
+    "Activities.md",
+    "Diary/2023/2023-12-16.md",
+    "Diary/2023/2023-12-14.md",
+    "Toukley Anytime Fitness W7",
+    "Toukley Anytime Fitness W",
+    "ARCHIVES/GAMSAT/Chemistry/Pasted image 20230717083326.png",
+    "ARCHIVES/GAMSAT/Chemistry/Pasted image 20230717084221.png",
+    "Diary/2023/photos/Pasted image 20231221130201.png",
+    "Diary/2023/photos/Pasted image 20231221125738.png",
+    "Diary/2023/photos/Pasted image 20231221125323.png",
+    "Diary/2023/photos/Pasted image 20231221105744.png",
+    "Azure/Photos/Pasted image 20231218151321.png",
+    "Azure/Photos",
+    "Azure",
+    "University/INFO3616/Definitions/photos",
+    "Socialising/World Building Ideas",
+    "University/INFO3616/Definitions",
+    "University/ELEC3506/Definitions",
+    "Letters From my Unconscious"
+  ]
+}

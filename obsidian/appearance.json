@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "showViewHeader": false,
+  "cssTheme": "Obsidian gruvbox",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "centerImage",
+    "translucent",
+    "hide-btns"
+  ],
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}
