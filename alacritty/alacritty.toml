@@ -1,0 +1,56 @@
+[colors.bright]
+black = "0x458588"
+blue = "0x7daea3"
+cyan = "0x89b482"
+green = "0xa9b665"
+magenta = "0xd3869b"
+red = "0xea6962"
+white = "0xd4be98"
+yellow = "0xd8a657"
+
+[colors.normal]
+black = "0x458588"
+blue = "0x7daea3"
+cyan = "0x89b482"
+green = "0xa9b665"
+magenta = "0xd3869b"
+red = "0xea6962"
+white = "0xd4be98"
+yellow = "0xd8a657"
+
+[colors.primary]
+background = "0x1d2021"
+foreground = "0xd4be98"
+
+[font.bold]
+family = "JetBrains Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrains Mono"
+style = "BoldItalic"
+
+[font.italic]
+family = "JetBrains Mono"
+style = "MediumItalic"
+
+[font.normal]
+family = "JetBrains Mono"
+style = "Medium"
+
+[shell]
+program = 'C:\Windows\System32\wsl.exe ~'
+
+[window]
+decorations = "Full"
+dynamic_padding = false
+opacity = 1
+startup_mode = "Maximized"
+
+[window.dimensions]
+columns = 0
+lines = 0
+
+[window.padding]
+x = 0
+y = 0
